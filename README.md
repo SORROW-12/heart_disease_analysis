@@ -55,6 +55,8 @@
 ### 模型结果（特征重要性 + ROC曲线）
 ![模型结果](model_result.png)
 
+### 模型对比（随机森林 vs 逻辑回归）
+![模型对比](model_comparison.png)
 ---
 
 ## 局限性与改进方向
